@@ -1,0 +1,142 @@
+solid seavolt
+facet normal -1 0 0
+  outer loop
+    vertex -7 -7 -16
+    vertex -7 -7 0
+    vertex -7 7 0
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -7 -7 -16
+    vertex 7 -7 -16
+    vertex -7 -7 0
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -7 -7 0
+    vertex 7 -7 0
+    vertex -7 -7 209.8999939
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex -7 -7 -16
+    vertex -7 7 -16
+    vertex 7 -7 -16
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -7 -7 0
+    vertex -7 -7 209.8999939
+    vertex -7 7 209.8999939
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -7 -7 -16
+    vertex -7 7 0
+    vertex -7 7 -16
+  endloop
+endfacet
+facet normal -1 0 0
+  outer loop
+    vertex -7 -7 0
+    vertex -7 7 209.8999939
+    vertex -7 7 0
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex -7 7 -16
+    vertex -7 7 0
+    vertex 7 7 0
+  endloop
+endfacet
+facet normal 0 1 0
+  outer loop
+    vertex -7 7 0
+    vertex -7 7 209.8999939
+    vertex 7 7 209.8999939
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex -7 -7 0
+    vertex 7 -7 -16
+    vertex 7 -7 0
+  endloop
+endfacet
+facet normal 1 0 -0
+  outer loop
+    vertex 7 -7 -16
+    vertex 7 7 -16
+    vertex 7 -7 0
+  endloop
+endfacet
+facet normal 1 0 -0
+  outer loop
+    vertex 7 -7 0
+    vertex 7 7 0
+    vertex 7 -7 209.8999939
+  endloop
+endfacet
+facet normal 0 -1 0
+  outer loop
+    vertex 7 -7 0
+    vertex 7 -7 209.8999939
+    vertex -7 -7 209.8999939
+  endloop
+endfacet
+facet normal 0 0 -1
+  outer loop
+    vertex -7 7 -16
+    vertex 7 7 -16
+    vertex 7 -7 -16
+  endloop
+endfacet
+facet normal -0 1 0
+  outer loop
+    vertex -7 7 -16
+    vertex 7 7 0
+    vertex 7 7 -16
+  endloop
+endfacet
+facet normal -0 1 0
+  outer loop
+    vertex -7 7 0
+    vertex 7 7 209.8999939
+    vertex 7 7 0
+  endloop
+endfacet
+facet normal 1 -0 0
+  outer loop
+    vertex 7 -7 0
+    vertex 7 7 -16
+    vertex 7 7 0
+  endloop
+endfacet
+facet normal 1 0 -0
+  outer loop
+    vertex 7 7 0
+    vertex 7 7 209.8999939
+    vertex 7 -7 209.8999939
+  endloop
+endfacet
+facet normal -0 0 1
+  outer loop
+    vertex -7 7 209.8999939
+    vertex -7 -7 209.8999939
+    vertex 7 -7 209.8999939
+  endloop
+endfacet
+facet normal 0 0 1
+  outer loop
+    vertex 7 7 209.8999939
+    vertex -7 7 209.8999939
+    vertex 7 -7 209.8999939
+  endloop
+endfacet
+endsolid seavolt
